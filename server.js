@@ -22,15 +22,18 @@ webApp.get('/', (req, res) => {
 
 
 // Website widget route
+//this will recive text and session id from the query 
 webApp.get('/website', async (req, res) => {
 let text = req.query.text;
 let sessionId=req.query.mysession;
+
+
     console.log("💛💛💛 data from server" ,text ,sessionId);
 
+    //here it will send it to dialogflow APi
     let intentData = await DIALOGFLOW_API.detectIntent( text, sessionId);
 
     res.setHeader('Access-Control-Allow-Origin', '*');
-
     if (intentData) {
         res.send(intentData);
     } else {
