@@ -121,8 +121,8 @@ let intentData={
 text :data.text,
 querytext:data.querytext,
 displayName:data.displayName,
-name:data.name,
-chatres:data.chatres,
+// name:data.name,
+// chatres:data.chatres,
 fulfillmentText:data.fullfillmentText
 
 }
@@ -130,13 +130,13 @@ fulfillmentText:data.fullfillmentText
       console.log("💚💚💚💚💚 the chatbot response text : " ,intentData);
 
       setTimeout(function () {
-        if(intentData.querytext ==="hi" || intentData.querytext==="hello"){
-        setBotResponse(intentData.text);
+        // if(intentData.querytext ==="hi" || intentData.querytext==="hello"){
+        // setBotResponse(intentData.text);
 
-        }else {
+        // }else {
 
-          setBotResponse(intentData.displayName);
-        }
+          setBotResponse(intentData.fulfillmentText);
+        // }
         // if (intentData.mysession.length > 0) 
         //   addSuggestion(intentData.buttons);
         // }

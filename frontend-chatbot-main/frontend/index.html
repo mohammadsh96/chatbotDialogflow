@@ -15,8 +15,8 @@
 <h2 id="displayName">display name  </h2>
 <h2 id="text">text </h2>
 <h2 id="fullfillmentText">fullfillment  Text</h2>
-<h2 id="name">name  </h2>
-<h2 id="chatres"> chatres </h2>
+<!-- <h2 id="name">name  </h2> -->
+<!-- <h2 id="chatres"> chatres </h2> -->
     <mybot></mybot>
 
   </div>
@@ -27,8 +27,8 @@
 text :data.text,
 querytext:data.querytext,
 displayName:data.displayName,
-name:data.name,
-chatres:data.chatres,
+// name:data.name,
+// chatres:data.chatres,
 fulfillmentText:data.fullfillmentText
 
 }
@@ -37,8 +37,8 @@ console.log(intentData.displayName);
     document.getElementById("displayName").innerHTML = intentData.displayName;
     document.getElementById("text").innerHTML = intentData.text
     document.getElementById("fullfillmentText").innerHTML = intentData.fulfillmentText;
-    document.getElementById("name").innerHTML = intentData.name;
-    document.getElementById("chatres").innerHTML = intentData.chatres;
+    // document.getElementById("name").innerHTML = intentData.name;
+    // document.getElementById("chatres").innerHTML = intentData.chatres;
 
   }
   

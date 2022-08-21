@@ -42,8 +42,8 @@ console.log("dialogflow >>> session path " ,sessionPath);
         const result = {
 text:responses[0].queryResult.fulfillmentMessages[0].text.text[0],
 querytext:responses[0].queryResult.queryText,
-name:responses[0].queryResult.parameters.fields.person.structValue.fields.name.stringValue,
-chatres:responses[0].queryResult.parameters.fields.chatres.stringValue,
+// name:responses[0].queryResult.parameters.fields.person.structValue.fields.name.stringValue,
+// chatres:responses[0].queryResult.parameters.fields.chatres.stringValue,
 displayName:responses[0].queryResult.intent.displayName,
 fullfillmentText:responses[0].queryResult.fulfillmentText
         }
