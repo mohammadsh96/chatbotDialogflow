@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cosmic-palace-356618",
+  "private_key_id": "63dac3069f691fb9395aaf796d5b10e391e6de01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCugJZFlpqL2C2C\npL+2qaAEjduk+OBNIx2lagG0cOPfQLdOn9sn5LF+0Weo2C9IMPvU06wraUKkKZk9\nn5Z2OwocJQZpnsmDXf5Ogz216DNb5pvQbv8JzGoCe0QrNM+E5KIfWUnN/2BbN56y\nCXvey/yaAcutgz9JX8i7ki1JEz/5qurAIDfPRjSXmdES413HepP+hAoeUl264sCp\nheGNOrFOai/HOVzX7zCw33WBmoc0UXgTZEaxMQStsSs193dlKLsNAwhawTINcB1e\nllJmmFc7HZNvNI3TtXnncVvHWAtgizEy5ketnJ7IwynU6ImRgIvRddiTD67O/i2U\nGP4uXsjvAgMBAAECggEAAXPVjF+8CpTykAdSBzGzQMZzgRSHPW0g5osS148m/mk5\n/WAMQXFAXvdcPwYJoraxqexXHwdhxB8KhP5KkNJd+6z9OCzXrY2/O6URAu4bW1T4\nkAwUeF7otPuUri1i2s7SYKNsH1hUU34LhpzYmJqnEBsauGeCw9gVwiXt1ZFg83GK\nvONaZKiqDNPuSUwDPfcSMBqzlD7QYHljykn1MZqTZmNUl9gi4j187QwjNaBorFiZ\nGkRMzJSH3R+8XN15oCwS0vq8qKZ12sX05RPKOwAS2v3VCcbHg0Qjzxf3kSQq09Dh\nsiX0G0DCcnbteWgKdkQlievtFEOkz52OrH9S3u9NLQKBgQDVT2M1P+gzZoExNAj2\nHNTq1zzKuXtWj+3XQaKLPjRsM2nBVrUXKpmCs5UeO2cbX6nkAmLwMwBVYmPftoaP\nakUepjgK/F5qqwyTBUKpT00JDGWsRHwXZmPtwXB6YvZl5TcKsCKj+j+netYxaIKK\nta+2XgE/RGs/7RdS/xS20XsvQwKBgQDRbPD4Ot4GH4GxXLfkvnH3cXqMniTfnKKp\nQ2a/ZtT+Bj6fKgPQLUcNtXVlOqXJzfUJOACaXLcp8SaVmVQMhBBuJrSiJNdlbUVt\nPJz160W92AuodxEGAnuDl3FviZSUXEHXp8SxcqnWHS2G7p7Xh0q1CaVntRQXALPM\ntlZ3lC9W5QKBgCjy3YOqagP8CI8Ogy3j6QfQG+563u+GH81z3yVF4sBmukWQRKFW\n3zNVECpGkwuROMb5ok6kK8s4YR3gJ0K+ztgMZrPNML7faUGL//kKrSowhBAm8X94\ne3R37wS/nLeA4ikeGPhLoQ6gqR/BBVZlfH7Q2wJvOvuBozmemDZkTnaLAoGAdxQK\nsBpIxBKGG+MsbNQc2SWdGPeS39Kgar34XjyKPyYt1TJ+mJAmJpVW+wgt3GFPQr6l\nGSA+xYpo9gcI01UEQp2fd9Ka5wEKyOH+HZZ5QUjm2BNbip8+u8QQq+r+oJ0UkxrB\nrGQWTbipel+T0dkLkYS6mA1OLwYnNe83myaXBEECgYB6+x1RU6NlO3WD/dUNkR+X\nYl1x+Zatt1So7QB0DmQaOpXUSLuJyi7DTfJS/2FFfXgeHfD3qfHS3dNbGGyvktsu\nniKQ90+mRuYA3JBY6VTdl3S0nl11xA/4UBDduspFfFLZjoZ34NNTptRb4JyMNWyC\n5A6e8LLaMsRrx7XkfAxdTQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflowtestagent@cosmic-palace-356618.iam.gserviceaccount.com",
+  "client_id": "118334523427528578713",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflowtestagent%40cosmic-palace-356618.iam.gserviceaccount.com"
+}
